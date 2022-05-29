@@ -1,0 +1,1 @@
+ python .\02test.py .\testout.txt --out_dir 02testout
